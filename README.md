@@ -19,7 +19,7 @@
 <a href="https://github.com/NazwaS/termux-whatsapp-bot/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
 </p>
 
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
+<img src="https://media.giphy.com/media/hhHcFH0xAduCs/giphy.gif">
 <details>
 
 <summary>🍙 Help me!</summary>
