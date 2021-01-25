@@ -1,6 +1,6 @@
 ### I'm IQBAL<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<a href="https://github.com/Rizki0001"><img src="https://github.com/Rizki0001/img/blob/main/iqbal.jpg"></a>
+<a href="https://github.com/Rizki0001"><img src="https://raw.githubusercontent.com/Rizki0001/img/main/iqbal.jpg"></a>
 </p>
 <br>
 
