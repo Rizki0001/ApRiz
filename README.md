@@ -1,4 +1,4 @@
-### Moshi Moshi~ I'm IQBAL<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### I'm IQBAL<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
 <a href="https://github.com/Rizki0001"><img src="https://github.com/Rizki0001/img/blob/main/iqbal.jpg"></a>
 </p>
@@ -7,16 +7,16 @@
 
 
 <p align="center">
-<a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SadGril" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Rizki0001"><img title="Author" src="https://img.shields.io/badge/AUTHOR-IQBAL-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazwaS?style=flat-square"></a>
-<a href="https://github.com/NazwaS/termux-whatsapp-bot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
-<a href="https://github.com/NazwaS/termux-whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
-<a href="https://github.com/NazwaS/termux-whatsapp-bot/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
+<a href="https://github.com/Rizki0001/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rizki0001?style=flat-square"></a>
+<a href="https://github.com/Rizki0001/SadGril/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Rizki0001/SadGril?style=flat-square"></a>
+<a href="https://github.com/Rizki0001/SadGril/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rizki0001/SadGril?style=flat-square"></a>
+<a href="https://github.com/Rizki0001/SadGril/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/Rizki0001/SadGril?style=flat-square"></a>
 </p>
 
 <img src="https://media.giphy.com/media/hhHcFH0xAduCs/giphy.gif">
@@ -24,8 +24,8 @@
 
 <summary>🍙 Help me!</summary>
 
-* [Saweria](https://saweria.co/nazwas)
-* [Trakteer](https://trakteer.id/NazwaS)
+* [Saweria](https://saweria.co/Iqbal)//Tapi gk punya
+* [Trakteer](https://trakteer.id/Iqbal)//Tapi gk punya
 </details>
 
 ## Tools
@@ -39,13 +39,13 @@
 ---
 
 ## Information
-- Change vcard contacts name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L78)
-- Change vcard bot name on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L79)
-- Change vcard WhatsApp id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L35)
-- Change vcard WhatsApp number on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L80)
-- Change owner number id on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L80)
-- Change menu on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/src/help.js)
-- Change Bot Name, Owner Name, & BarBarKey  on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L422)
+- Change vcard contacts name on [this section](https://github.com/Rizki0001/SadGril/blob/main/index.js#L78)
+- Change vcard bot name on [this section](https://github.com/Rizki0001/SadGril/blob/main/index.js#L79)
+- Change vcard WhatsApp id on [this section](https://github.com/Rizki0001/SadGril/blob/main/index.js#L35)
+- Change vcard WhatsApp number on [this section](https://github.com/Rizki0001/SadGril/blob/main/index.js#L80)
+- Change owner number id on [this section](https://github.com/Rizki0001/SadGril/blob/main/index.js#L80)
+- Change menu on [this section](https://github.com/Rizki0001/SadGril/blob/main/src/help.js)
+- Change Bot Name, Owner Name, & BarBarKey  on [this section](https://github.com/Rizki0001/SadGril/blob/main/index.js#L422)
 
 ---
 
@@ -271,6 +271,6 @@ Follow The Steps Below!
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
 - [RyzRdy](https://github.com/RyzRdy)
 - [Paritsod](https://github.com/Paritsod)
-- [mrfzvx12](https://github.com/mrfzvx12)
+- [Iqbal](https://github.com/Rizki0001)
 - [Mr-hadi](https://github.com/Mr-hadi)
 - [MhankBarBar](https://github.com/mhankbarbar)
