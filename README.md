@@ -1,6 +1,6 @@
 ### Moshi Moshi~ I'm IQBAL<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<a href="https://github.com/Rizki0001"><img src=''https://github.com/Rizki0001/Rizki0001/img/Rizki/fkg"></a>
+<a href="https://github.com/Rizki0001"><img src="https://github.com/settings/profile/Rizki0001"></a>
 </p>
 <br>
 
