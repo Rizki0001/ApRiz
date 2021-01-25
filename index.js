@@ -1,6 +1,6 @@
 /*
 * Tambahin nama author lah
-* Author nya Radya, Farid, M.hadi.firmansya, and Nazwa
+* Author nya Iqbal and Rizki and Maulana
 * Tambahin ya zhayank
 * Jan numpang nama doank
 * Baca readme nya biar gk tanya tanya
